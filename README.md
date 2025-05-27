@@ -1,5 +1,21 @@
 ## Capturas de la Aplicación
 
+--- 
+### Integrantes:
+-Francis Aconda
+-Marco Tapia
+
+---
+### Estrucutura del Proyecto
+
+![image](https://github.com/user-attachments/assets/6ef1467d-6627-4032-ab5e-4a72223f2339)
+
+---
+### Principales funcionalidades Login y del Chat en código:
+
+![image](https://github.com/user-attachments/assets/5a95c087-5bd7-4a23-839b-fd14cb145b5a)
+
+---
 ### 📲 Captura del Login
 Pantalla de inicio de sesión donde el usuario ingresa su correo y contraseña registrados para acceder al sistema.
 
