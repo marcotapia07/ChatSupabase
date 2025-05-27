@@ -1,0 +1,7 @@
+{
+  "name": "chatLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
